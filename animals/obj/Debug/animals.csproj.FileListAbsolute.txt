@@ -27,3 +27,17 @@ C:\Users\User\YandexDisk\deadline\челгу\animals\animals\obj\Debug\animals.P
 C:\Users\User\YandexDisk\deadline\челгу\animals\animals\obj\Debug\animals.csproj.GenerateResource.cache
 C:\Users\User\YandexDisk\deadline\челгу\animals\animals\obj\Debug\animals.exe
 C:\Users\User\YandexDisk\deadline\челгу\animals\animals\obj\Debug\animals.pdb
+C:\Users\Alfred Yait\YandexDisk\deadline\челгу\Нейросети\animals (доделать)\animals\bin\Debug\animals.exe.config
+C:\Users\Alfred Yait\YandexDisk\deadline\челгу\Нейросети\animals (доделать)\animals\bin\Debug\animals.exe
+C:\Users\Alfred Yait\YandexDisk\deadline\челгу\Нейросети\animals (доделать)\animals\bin\Debug\animals.pdb
+C:\Users\Alfred Yait\YandexDisk\deadline\челгу\Нейросети\animals (доделать)\animals\obj\Debug\animals.csprojAssemblyReference.cache
+C:\Users\Alfred Yait\YandexDisk\deadline\челгу\Нейросети\animals (доделать)\animals\obj\Debug\MainWindow.g.cs
+C:\Users\Alfred Yait\YandexDisk\deadline\челгу\Нейросети\animals (доделать)\animals\obj\Debug\App.g.cs
+C:\Users\Alfred Yait\YandexDisk\deadline\челгу\Нейросети\animals (доделать)\animals\obj\Debug\animals_MarkupCompile.cache
+C:\Users\Alfred Yait\YandexDisk\deadline\челгу\Нейросети\animals (доделать)\animals\obj\Debug\animals_MarkupCompile.lref
+C:\Users\Alfred Yait\YandexDisk\deadline\челгу\Нейросети\animals (доделать)\animals\obj\Debug\MainWindow.baml
+C:\Users\Alfred Yait\YandexDisk\deadline\челгу\Нейросети\animals (доделать)\animals\obj\Debug\animals.g.resources
+C:\Users\Alfred Yait\YandexDisk\deadline\челгу\Нейросети\animals (доделать)\animals\obj\Debug\animals.Properties.Resources.resources
+C:\Users\Alfred Yait\YandexDisk\deadline\челгу\Нейросети\animals (доделать)\animals\obj\Debug\animals.csproj.GenerateResource.cache
+C:\Users\Alfred Yait\YandexDisk\deadline\челгу\Нейросети\animals (доделать)\animals\obj\Debug\animals.exe
+C:\Users\Alfred Yait\YandexDisk\deadline\челгу\Нейросети\animals (доделать)\animals\obj\Debug\animals.pdb
