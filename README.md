@@ -1,0 +1,2 @@
+# Easy_Animal_classificator_wpf
+Простой классификатор животных
